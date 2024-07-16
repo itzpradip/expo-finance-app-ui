@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Salary",
+    "amount": "1,500.00"
+  },
+  {
+    "id": "2",
+    "name": "Freelancing",
+    "amount": "850.99"
+  },
+  {
+    "id": "3",
+    "name": "Interest",
+    "amount": "200.95"
+  }
+]

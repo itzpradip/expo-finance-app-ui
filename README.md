@@ -1,6 +1,13 @@
-# Welcome to your Expo app 👋
+# Finance App in React Native with Expo Router 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to create a Finance App UI in React Native. Along with App UI, here I've implemented custom bottom tabbar navigator with expo router v3 and pie chart with [react native gifted charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) package.
+
+Libraries used in this project
+
+- [Expo](https://expo.dev)
+- [React Native Gifted Charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts)
+- [React Native SVG Tansformer](https://github.com/kristerkari/react-native-svg-transformer)
+
 
 ## Get started
 
@@ -16,35 +23,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## App Screenshot
+![Finance App in React Native with Expo Router](./finance-app-iphone.png)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Watch it on YouTube
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
 
-## Get a fresh project
+[![Finance App UI in React Native with Expo Router Tutorial for Beginners](https://img.youtube.com/vi/MLVxvof54KA/0.jpg)](https://youtu.be/MLVxvof54KA)
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
